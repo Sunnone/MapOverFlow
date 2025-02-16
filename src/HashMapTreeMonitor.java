@@ -3,6 +3,10 @@ import java.util.HashMap;
 
 class HashMapTreeMonitor {
 
+    void hellowork(){
+        System.out.println("Hello home work!!!");
+    }
+
     static class Key {
         final int id;
 
